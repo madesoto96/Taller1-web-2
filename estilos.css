@@ -1,0 +1,48 @@
+.img{
+    height:400px;
+    width:1350px;
+}
+
+
+.imagen{
+    height:70px;
+    width:70px;
+    
+}
+
+
+.footer{
+    text-align: center;
+    background-color:black;
+    font-family:Arial;
+    font-weight: bold;
+    color:white;
+}
+
+.imagenes{
+    height:200px;
+    width:150px;
+    
+}
+
+.main{
+    text-align: justify;
+    font-family: Arial;
+    font-weight: bold;
+    color:#00b8d4;
+}
+
+.fondo{
+    background-image: url(img/Lenguaje-de-programación.png);
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.letra{
+    text-align: justify;
+    font-family: Arial;
+    font-weight: bold;
+    color:#00e5ff;
+}
+
